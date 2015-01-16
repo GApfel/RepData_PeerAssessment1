@@ -208,4 +208,4 @@ plot(names(c2), c2, type = "l", xlab = "Interval in the day", ylab = "", main = 
 
 ![](PA1_template_files/figure-html/unnamed-chunk-15-1.png) 
 
-This person seems walk much more on the weekend then during the week, although there are periods of more intense activity suring the week.
+This person seems to walk much more on the weekend then during the week, although there are periods of more intense activity suring the week.
